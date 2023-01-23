@@ -1,0 +1,6 @@
+{
+  "discount-banners" : {
+    "component" : "DiscountBanners",
+    "render" : "client"
+  }
+}
